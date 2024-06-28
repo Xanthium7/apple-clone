@@ -8,7 +8,7 @@ import {
 import * as THREE from "three";
 import Lights from "./Lights";
 // import Loader from "./Loader";
-import IPhone from "./IPhone";
+import IPhone from "./Iphone";
 import { Suspense } from "react";
 
 const ModelView = ({
